@@ -1,1 +1,1 @@
-# hello-world
+Secure Mobility - Xen Hypervisor integrity Measurer (XHIM) provides integrity measurement for the Xen Hypervisor. The System Management Interrupt (SMI) Transfer Monitor Protected Execution (STE/PE) environment provides XHIM with a running environment which can accurately measure key features of Xen's memory and machine state while being protected from modification, tampering or deception on the Xen Hypervisor itself.
